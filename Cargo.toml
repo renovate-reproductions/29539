@@ -1,0 +1,8 @@
+[package]
+name = "repro-renovate-lockfile-update"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tauri-winrt-notification = "=0.2.1"
+windows = "0.56.0"
